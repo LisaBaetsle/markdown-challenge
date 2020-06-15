@@ -8,16 +8,17 @@
 Question | Answer
 ------------ | -------------
 Birthday | 09/03/1992
-Favorite color | Green
-Favorite food | Vegan food with eastern flavours
-Pineapple on pizza | <ul><li>- [x] Hell yeah! I love pineapples </li> <li> - [ ] no </li> </ul>
+Favorite color | Green :green_heart:
+Favorite food | Vegan food with eastern flavours :curry:
+Pineapple on pizza | <ul><li>- [x] Hell yeah! I love pineapples :pineapple: </li> <li> - [ ] no </li> </ul>
 
 
 #### Hobbies
-- Piano
+- Piano :musical_keyboard:
 - Sports:
   - Roller blading (the old fashion way)
   - Gymnastics
+  - Snowboarding
   - football, basketball, slacklining, frisbee, spikeball, Kubb, ... with friends
 - Travelling:
   - Lapland
