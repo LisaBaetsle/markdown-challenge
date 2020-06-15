@@ -6,10 +6,10 @@
 ### Me, an ecofriendly, animalhugging and adventurous girl who loves to travel the world and experience new cultures.
 
 ------------ | -------------
-| Birthday | 09/03/1992 |
-| Favorite color | Green |
-| Favorite food | Vegan food with eastern flavours |
-| Pineapple on pizza | [x] Hell yeah! I love pineapples |
+Birthday | 09/03/1992
+Favorite color | Green
+Favorite food | Vegan food with eastern flavours
+Pineapple on pizza | [x] Hell yeah! I love pineapples
 
 #### Hobbies
 - Piano
