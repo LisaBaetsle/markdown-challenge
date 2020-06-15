@@ -11,6 +11,11 @@ Favorite color | Green
 Favorite food | Vegan food with eastern flavours
 Pineapple on pizza | [x] Hell yeah! I love pineapples
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 #### Hobbies
 - Piano
 - Sports:
