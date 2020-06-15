@@ -10,7 +10,7 @@ Question | Answer
 Birthday | 09/03/1992
 Favorite color | Green
 Favorite food | Vegan food with eastern flavours
-Pineapple on pizza | <ul><li>- [x] Hell yeah! I love pineapples </li> - [ ] No </li> </ul>
+Pineapple on pizza | <ul><li>- [x] Hell yeah! I love pineapples </li> - [ ] this is an incomplete item </li> </ul>
 
 
 #### Hobbies
