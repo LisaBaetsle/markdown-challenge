@@ -43,4 +43,4 @@ On the 9th of march 2016, there was a total solar eclips. You could see this tot
 I broke my clavicle in Indonesia instead of watching a total solar eclipse on top of a volcano :volcano:.
 
 
-<< [previous](https://github.com/KimDelbarre/markdown-challenge/blob/master/README.md) || Lisa Baetsle || [next](http://github.com) >>
+<< [previous Kim](https://github.com/KimDelbarre/markdown-challenge/blob/master/README.md) || Lisa Baetsle || [next Major](https://github.com/MajorGirmay/Markdown-challenge/blob/master/README.md) >>
