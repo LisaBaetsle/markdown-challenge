@@ -30,7 +30,9 @@ Pineapple on pizza | <ul><li>- [x] Hell yeah! I love pineapples </li> <li> - [ ]
 
 #### You can always count on me when...
 ... you need someone to listen, a good laugh or a good cry.
+
 ... you want some fun team activities or some insight about Ghent.
+
 ... you want some help with the assignments. Maybe we can figure it out together.
 
 #### A funny story
