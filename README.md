@@ -5,20 +5,12 @@
 
 ### Me, an ecofriendly, animalhugging and adventurous girl who loves to travel the world and experience new cultures.
 
-Birthday    | 28/02
------------- | -------------
-Favorite color|  White
-Favorite food| Iskender kebap
-Pinneapple on pizza| No, thank you
-
 Birthday | 09/03/1992
+------------ | -------------
 Favorite color | Green
 Favorite food | Vegan food with eastern flavours
 Pineapple on pizza | [x] Hell yeah! I love pineapples
 
-| First Header  | Second Header |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 #### Hobbies
 - Piano
