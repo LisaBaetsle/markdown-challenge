@@ -42,4 +42,4 @@ On the 9th of march 2016, there was a total solar eclips. You could see this tot
 I broke my clavicle in Indonesia instead of watching a total solar eclipse on top of a vulcano.
 
 
-<< previous [GitHub](http://github.com) || Lisa Baetsle || next >>
+<< [previous](http://github.com) || Lisa Baetsle || [next](http://github.com) >>
