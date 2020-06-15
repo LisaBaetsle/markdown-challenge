@@ -5,11 +5,17 @@
 
 ### Me, an ecofriendly, animalhugging and adventurous girl who loves to travel the world and experience new cultures.
 
-Birthday | 09/03/1992
+Question | Answer
 ------------ | -------------
+Birthday | 09/03/1992
 Favorite color | Green
 Favorite food | Vegan food with eastern flavours
-Pineapple on pizza | [x] Hell yeah! I love pineapples [ ]
+Pineapple on pizza | <ul><li>- [x] Hell yeah! I love pineapples</li> - [ ] No </li></ul>
+[x] Hell yeah! I love pineapples [ ]
+
+Birthday | Favorite color | Favorite food | Pinneapple on pizza
+-------- | -------------- | ------------- | -------------------
+26/09/1976 | Yellow | Meat on the BBQ | <ul><li>- [x] </li></ul>
 
 
 #### Hobbies
